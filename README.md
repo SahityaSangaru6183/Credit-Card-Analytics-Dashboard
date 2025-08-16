@@ -88,7 +88,7 @@ To build a **self-service BI solution** that allows users to:
 
 Here are some snapshots of the dashboard in action:
 
-![Credit Card Overview](https://github.com/YourGitHubUsername/CreditCard-Dashboard/blob/main/snapshot.png?raw=true)
+![Credit Card Overview](https://github.com/SahityaSangaru6183/Credit-Card-Analytics-Dashboard/blob/main/Screenshot%202025-08-16%20120226.png)
 
 ---
 
